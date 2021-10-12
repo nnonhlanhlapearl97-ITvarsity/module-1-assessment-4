@@ -1,0 +1,24 @@
+h2{
+    color: #2296C7;
+    font-size:  40px;
+    font-family: Helvetical,sans-serif
+    text-align: center;
+}
+
+}
+td{
+    font-weight: 800;
+    text-decoration: line-through;
+    color: black;
+    
+}
+
+table{
+    font-family: Helvetical,sans-serif;
+    color: blue;
+    background-color: chocolate;
+}
+th{
+    font-weight: 800;
+    color: aqua;
+}
